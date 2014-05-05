@@ -1,3 +1,7 @@
+<h1>Justcoin is no longer providing support for snow. We simply do not have the capacity. If there is someone with the time and resources to bring the project back to life, then contact me.</h1>
+
+<h1>This fork is currently months (and thousands of commits) behind the one running at Justcoin.</h1>
+
 # Snow
 
 Snow is a digital currency exchange engine written in node.js.
